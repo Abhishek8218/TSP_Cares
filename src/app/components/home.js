@@ -14,7 +14,8 @@ function Home() {
         </p>
         <div className="flex justify-center items-center mb-8">
           <a
-            href="https://donate.stripe.com/test_bIYcOE7D01Kt1Gg5kk6"
+            href="https://donate.stripe.com/test_bIYcOE7D01Kt1Gg5kk"
+
             className="bg-blue-500 bg-opacity-80 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full shadow-lg border-white border-4    transition duration-300 ease-in-out mr-4"
           >
             Donate
