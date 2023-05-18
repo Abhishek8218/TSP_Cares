@@ -4,10 +4,10 @@ function Services() {
   return (
     <section id="services" className="bg-gray-200 py-12">
       <div className="container mx-auto text-center">
-        <h2 className="text-4xl inline font-bold text-black mb-4 border-b-4  border-gray-500">
+        <h2 className="text-4xl inline font-bold text-black mb-4 border-b-2 shadow-sm shadow-gray-500 px-2 py-1 border-gray-400">
           Our Services
         </h2>
-        <p className="text-2xl text-black mb-8 mt-8">
+        <p className="text-2xl text-black mb-8 mt-8 px-2">
           We offer a range of services to combat hunger in our community:
         </p>
         <div className="flex flex-col md:flex-row items-center justify-center">

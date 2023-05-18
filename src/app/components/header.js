@@ -67,14 +67,14 @@ function Header() {
         {mobile && (
           <div className=" transition-all ease-in-out duration-300 absolute top-20 left-0 w-full min-h-[70vh] md:hidden">
             <ul
-              className={`   bg-gray-300 py-5 flex flex-col items-center justify-center pr-3 min-h-[70vh] gap-5 `}
+              className={`   bg-green-300 py-5 flex flex-col items-center justify-center pr-3 min-h-[70vh] gap-7 `}
             >
               {links.map(({ link, id }) => (
                 <li key={id}>
                   <Link
                     onClick={() => setMobile(!mobile)}
                     href={`#${link}`}
-                    className=" text-black underline  text-xl cursor-pointer capitalize"
+                    className=" text-blue-500 font-bold border-b-2 border-blue-600 shadow-md shadow-cyan-600  px-auto text-xl cursor-pointer capitalize"
                   >
                     {link}
                   </Link>

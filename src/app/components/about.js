@@ -8,7 +8,9 @@ function About() {
   return (
     <section id="about" className="bg-white py-12">
       <div className="container mx-auto text-center">
-        <h2 className="text-4xl inline font-bold text-black mb-6">About Us</h2>
+        <h2 className="text-4xl inline font-bold border-b-2 border-gray-400 shadow-sm shadow-gray-500 px-2 py-1 text-black mb-6">
+          About Us
+        </h2>
         <div className="px-10">
           <p className="  text-lg text-start md:text-center text-blue-500 mb-8 mt-4">
             At TSP Cares, we are dedicated to fighting hunger and provide

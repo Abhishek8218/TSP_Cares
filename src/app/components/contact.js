@@ -13,10 +13,10 @@ function Contact() {
       }}
     >
       <div className="container mx-auto text-center">
-        <h2 className="text-4xl inline font-bold text-white  mb-4 ">
+        <h2 className="text-4xl inline font-bold text-white  mb-6">
           Contact Us
         </h2>
-        <p className="text-xl text-white mb-8">
+        <p className="text-xl text-white mt-4 mb-8">
           Have a question or want to get involved? Reach out to us today.
         </p>
         <div className="m-2 p-2 flex justify-center items-center ">
@@ -47,7 +47,7 @@ function Contact() {
             ></textarea>
 
             <button className="bg-green-500 text-white font-bold py-3 px-8 my-8 mx-auto rounded-full shadow-lg hover:bg-green-700 transition duration-300 ease-in-out">
-              Let's talk
+              Let&apos; talk
             </button>
           </form>
         </div>

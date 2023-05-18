@@ -10,7 +10,7 @@ function SuccessMetrics() {
   return (
     <section id="success-metrics" className="bg-gray-100 py-12">
       <div className="container mx-auto text-center px-10">
-        <h2 className="text-3xl inline font-bold text-black border-b-4 border-gray-500 mb-10">
+        <h2 className="text-3xl inline font-bold text-black border-b-2 shadow-sm shadow-gray-500 px-2 py-1 border-gray-400 mb-10">
           Our Impact
         </h2>
         <p className="text-lg text-start md:text-center text-gray-700 mb-8 mx-auto mt-10">

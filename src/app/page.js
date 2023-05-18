@@ -9,7 +9,7 @@ function page() {
   return (
     <div className="bg-white">
       <div
-        className="bg-blue-500 pb-12  bg-cover bg-no-repeat bg-center "
+        className="bg-gray-500 pb-12  bg-cover bg-no-repeat bg-center "
         style={{
           backgroundImage:
             "url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80')",
