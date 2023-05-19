@@ -47,7 +47,7 @@ function SuccessMetrics() {
           strides towards ending hunger in our community.
         </p>
         <a
-          href="https://donate.stripe.com/test_bIYcOE7D01Kt1Gg5kk"
+          href="https://rzp.io/l/bPfvWFJzpr"
           className="bg-blue-500   text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-700  mt-8"
         >
           Donate Now

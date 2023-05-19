@@ -47,7 +47,7 @@ function Contact() {
             ></textarea>
 
             <button className="bg-green-500 text-white font-bold py-3 px-8 my-8 mx-auto rounded-full shadow-lg hover:bg-green-700 transition duration-300 ease-in-out">
-              Let&apos; talk
+              Let&apos;s talk
             </button>
           </form>
         </div>
